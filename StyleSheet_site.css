@@ -1,26 +1,38 @@
 .left {
-    font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
 .firstSection {
-    display: flex;
-    justify-content: space-around;
-    margin: 80px, 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 130px 0;
 }
 
-.firstSection>div {
-    width: 30%;
+.firstSection > div {
+  width: 30%;
 }
 
 .leftSection {
-    font-size: 2rem;
-    margin: 30px 0;
+  font-size: 2rem;
 }
 
 .rightSection img {
-    margin: 50px 0;
+  width: 80%;
 }
 
-.purple {
-    color: blueviolet
+.secondSection {
+  max-width: 80vw;
+  margin: auto;
+}
+
+.secondSection h1 {
+  font: 1.7rem;
+}
+
+.text-gray {
+  color: gray;
+}
+.text-purple {
+  color: blueviolet;
 }
