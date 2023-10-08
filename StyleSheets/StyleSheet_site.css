@@ -58,5 +58,6 @@
 
 .footer ul {
   list-style: none;
-  font-size: small;
+  font-size: smaller;
+  text-decoration: none;
 }
