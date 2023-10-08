@@ -56,8 +56,11 @@
   justify-content: space-evenly;
 }
 
-.footer ul {
+.footer li {
   list-style: none;
   font-size: smaller;
-  text-decoration: none;
+}
+
+.footer_first {
+  padding: 35px 50px;
 }
