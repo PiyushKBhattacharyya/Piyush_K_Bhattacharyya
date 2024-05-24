@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [PiyushKBhattacharyya](https://github.com/PiyushKBhattacharyya)
+- 👨‍💻 All of my projects are available at [PiyushKBhattacharyya](https://github.com/PiyushKBhattacharyya?tab=repositories)
 
 - 📝 Also do visit my LinkedIn profile [piyush-kaushik-b](https://www.linkedin.com/in/piyush-bhattacharyya-0b8a03131/)
 
