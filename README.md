@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [PiyushKBhattacharyya](https://github.com/PiyushKBhattacharyya?tab=repositories)
+- 👨‍💻 All of my projects are available at [Link to Github Repositeries](https://github.com/PiyushKBhattacharyya?tab=repositories)
 
-- 📝 Also do visit my LinkedIn profile [piyush-kaushik-b](https://www.linkedin.com/in/piyush-bhattacharyya-0b8a03131/)
+- 📝 Also do visit my LinkedIn profile [Link to Linkedin](https://www.linkedin.com/in/piyush-bhattacharyya-0b8a03131/)
 
-- 📄 Know about my Portfolio [PiyushKBhattacharyya/](https://piyushkbhattacharyya.github.io/PiyushKBhattacharyya/)
+- 📄 Know about my Portfolio [Link to Portfolio Website](https://piyushkbhattacharyya.github.io/PiyushKBhattacharyya/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
