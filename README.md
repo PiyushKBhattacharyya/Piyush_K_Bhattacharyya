@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PiyushKBhattacharyya](https://github.com/PiyushKBhattacharyya)
 
-- 📝 Also do visit my LinkedIn profile [https://www.linkedin.com/in/piyush-kaushik-b-0b8a03131/](https://www.linkedin.com/in/piyush-kaushik-b-0b8a03131/)
+- 📝 Also do visit my LinkedIn profile [https://www.linkedin.com/in/piyush-kaushik-b-0b8a03131/](https://www.linkedin.com/in/piyush-bhattacharyya-0b8a03131/)
 
 - 📄 Know about my Portfolio [https://piyushkbhattacharyya.github.io/PiyushKBhattacharyya/](https://piyushkbhattacharyya.github.io/PiyushKBhattacharyya/)
 
